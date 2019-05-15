@@ -81,7 +81,7 @@ module StripeMock
         'transfer.failed',
         'payment_intent.created',
         'payment_intent.succeeded',
-        'payment_intent.failed'
+        'payment_intent.payment_failed'
       ]
     end
   end
